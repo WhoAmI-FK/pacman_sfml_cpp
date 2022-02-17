@@ -1,0 +1,84 @@
+﻿  FirstGameEngine.cpp
+F:\forProject\FirstGameEngine\FirstGameEngine\Player.h(35,14): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\forProject\FirstGameEngine\FirstGameEngine\Player.h(36,15): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\forProject\FirstGameEngine\FirstGameEngine\Player.h(41,22): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\forProject\FirstGameEngine\FirstGameEngine\Player.h(45,22): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\forProject\FirstGameEngine\FirstGameEngine\Player.h(49,22): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\forProject\FirstGameEngine\FirstGameEngine\Player.h(53,26): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\forProject\FirstGameEngine\FirstGameEngine\Player.h(124,20): warning C4305: +=: усечение из "double" в "float"
+F:\forProject\FirstGameEngine\FirstGameEngine\Player.h(134,55): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+F:\forProject\FirstGameEngine\FirstGameEngine\Player.h(140,20): warning C4305: +=: усечение из "double" в "float"
+F:\forProject\FirstGameEngine\FirstGameEngine\Player.h(150,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+F:\forProject\FirstGameEngine\FirstGameEngine\Player.h(155,19): warning C4305: +=: усечение из "double" в "float"
+F:\forProject\FirstGameEngine\FirstGameEngine\Player.h(170,19): warning C4305: +=: усечение из "double" в "float"
+F:\forProject\FirstGameEngine\FirstGameEngine\Ghost.h(35,13): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\forProject\FirstGameEngine\FirstGameEngine\Ghost.h(36,15): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\forProject\FirstGameEngine\FirstGameEngine\Ghost.h(43,33): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\forProject\FirstGameEngine\FirstGameEngine\Ghost.h(81,22): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\forProject\FirstGameEngine\FirstGameEngine\Ghost.h(119,22): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\forProject\FirstGameEngine\FirstGameEngine\Ghost.h(134,22): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\forProject\FirstGameEngine\FirstGameEngine\Ghost.h(171,154): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\forProject\FirstGameEngine\FirstGameEngine\Ghost.h(171,144): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\forProject\FirstGameEngine\FirstGameEngine\level.h(209,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\forProject\FirstGameEngine\FirstGameEngine\level.h(231,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\forProject\FirstGameEngine\FirstGameEngine\level.h(231,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\forProject\FirstGameEngine\FirstGameEngine\level.h(237,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\forProject\FirstGameEngine\FirstGameEngine\level.h(237,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\forProject\FirstGameEngine\FirstGameEngine\FirstGameEngine.cpp(4,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  FirstGameEngine.vcxproj -> F:\forProject\FirstGameEngine\Debug\FirstGameEngine.exe

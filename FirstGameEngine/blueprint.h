@@ -1,0 +1,61 @@
+#pragma once
+#include <SFML\Graphics.hpp>
+const int h = 25;
+const int w = 40;
+
+
+sf::String Map[h] = {
+    "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+	"baaaaaaaaaaaaaaaaabbaaaaaaaaaaaaaaaaaaab",
+	"baaaaaaaaaaaaaaaaabbaaaaaaaaaaaaaaaaaaab",
+	"baaaabbbaaaabbbaaabbaaaabbbaaaabbbaaaaab",
+	"baaaabbbaaaabbbaaaaaaaaabbbaaaabbbaaaaab",
+	"baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+	"baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+	"baaaaaaaaaabbbbbbbbbbbbbbbbaaaaaaaaaaaab",
+	"baaaaabbaaaaaaaaaaaaaaaaaaaaaabbaaaaaaab",
+	"baaaaabbaaaaaaaaaaaaaaaaaaaaaabbaaaaaaab",
+	"baaaaabbaaaaabbbggggggbbbaaaaabbaaaaaaab",
+	"baaaaabbaaaaabbbggggggbbbaaaaabbaaaaaaab",
+	"baaaaaaaaaaaabbbggggggbbbaaaaaaaaaaaaaab",
+	"baaaaaaaaaaaabbbggggggbbbaaaaaaaaaaaaaab",
+	"baaaaaaaaaaaabbbbbbbbbbbbaaaaaaaaaaaaaab",
+	"baaaaabbaaaaaaaaaaaaaaaaaaaaaabbaaaaaaab",
+	"baaaaabbaaaaaaaaaaaaaaaaaaaaaabbaaaaaaab",
+	"baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+	"baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+	"baaaabbbaaabbbaaaabbaaaaabbbaaaabbbaaaab",
+	"baaaaaaaaaaaaaaaaabbaaaaaaaaaaaaaaaaaaab",
+	"baaaaaaaaaaaaaaaaabbaaaaaaaaaaaaaaaaaaab",
+	"baaaaaaaaaaaaaaaaabbaaaaaaaaaaaaaaaaaaab",
+	"bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+	"bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+};
+
+sf::String SaveMap[h] = {
+	"bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+	"baaaaaaaaaaaaaaaaabbaaaaaaaaaaaaaaaaaaab",
+	"baaaaaaaaaaaaaaaaabbaaaaaaaaaaaaaaaaaaab",
+	"baaaabbbaaaabbbaaabbaaaabbbaaaabbbaaaaab",
+	"baaaabbbaaaabbbaaaaaaaaabbbaaaabbbaaaaab",
+	"baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+	"baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+	"baaaaaaaaaabbbbbbbbbbbbbbbbaaaaaaaaaaaab",
+	"baaaaabbaaaaaaaaaaaaaaaaaaaaaabbaaaaaaab",
+	"baaaaabbaaaaaaaaaaaaaaaaaaaaaabbaaaaaaab",
+	"baaaaabbaaaaabbbggggggbbbaaaaabbaaaaaaab",
+	"baaaaabbaaaaabbbggggggbbbaaaaabbaaaaaaab",
+	"baaaaaaaaaaaabbbggggggbbbaaaaaaaaaaaaaab",
+	"baaaaaaaaaaaabbbggggggbbbaaaaaaaaaaaaaab",
+	"baaaaaaaaaaaabbbbbbbbbbbbaaaaaaaaaaaaaab",
+	"baaaaabbaaaaaaaaaaaaaaaaaaaaaabbaaaaaaab",
+	"baaaaabbaaaaaaaaaaaaaaaaaaaaaabbaaaaaaab",
+	"baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+	"baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+	"baaaabbbaaabbbaaaabbaaaaabbbaaaabbbaaaab",
+	"baaaaaaaaaaaaaaaaabbaaaaaaaaaaaaaaaaaaab",
+	"baaaaaaaaaaaaaaaaabbaaaaaaaaaaaaaaaaaaab",
+	"baaaaaaaaaaaaaaaaabbaaaaaaaaaaaaaaaaaaab",
+	"bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+	"bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+};
