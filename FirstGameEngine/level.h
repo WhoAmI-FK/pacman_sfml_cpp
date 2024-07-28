@@ -53,6 +53,7 @@ private:
 		text.setStyle(Text::Bold);
 		Text playerText;
 		win.close();
+
 		win.create(sf::VideoMode(1200, 800), "LOSE", Style::Fullscreen);
 		playerText.setPosition(Vector2f(200, 200));
 		playerText.setFont(font);
@@ -185,14 +186,14 @@ private:
 	}
 	void demo()
 	{
-		load_from_file();
+	//	load_from_file();
 		updateMap();
 		window.close();
 		Player p;
 		Ghost g1(18,12,165,0,47,47,&p);
 		Ghost g2(20, 11, 138, 53,47,47,&p);
 		Ghost g3(20, 11, 138, 107,47,47,&p);
-		window.create(sf::VideoMode(1200, 800), "PACMAN", Style::Fullscreen);
+		window.create(sf::VideoMode(1300, 800), "PACMAN");
 		float CurrentFrame = 0;
 		sf::Clock clock;
 		// BG MUSIC
